@@ -1,0 +1,16 @@
+{
+  "name": "server_express_joi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^17.13.1",
+    "uuid": "^9.0.1"
+  }
+}
